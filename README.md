@@ -1,4 +1,4 @@
 # scratchrespos
 
-For this, I plan on trying to make a weather application, like the one that was shown in the tutorial.
-I will be following what was shown in that video, and trying it out myself.
+For this, I plan on trying to try out a random joke generator. It will print out different strings to the console, and I mainly checked
+it out using an npm package.

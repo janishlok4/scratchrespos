@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/janishlok4/scratchrespos#readme",
   "dependencies": {
+    "manatee-joke-generator": "^1.1.2",
     "weather-js": "^2.0.0"
   }
 }
