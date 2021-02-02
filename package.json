@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/janishlok4/scratchrespos/issues"
   },
-  "homepage": "https://github.com/janishlok4/scratchrespos#readme"
+  "homepage": "https://github.com/janishlok4/scratchrespos#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
 }
